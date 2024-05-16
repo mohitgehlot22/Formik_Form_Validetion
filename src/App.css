@@ -1,0 +1,17 @@
+body{
+   background: url(https://img.freepik.com/free-vector/realistic-neon-lights-background_23-2148907367.jpg?w=996&t=st=1715667255~exp=1715667855~hmac=24d291ca4568a847604249701eb4b8ff8c2d99e7ad475d75af923e8a526d0725);
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: white !important;
+}
+
+.form{
+   width: 700px;
+   box-shadow: 0px 0px 20px 20px whitesmoke;
+}
+.errorMessage {
+      color: red !important;
+}
+.profile{
+   background: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=996&t=st=1715667743~exp=1715668343~hmac=7dbeb8ab10e2793a85dcfe7a93f1f7a466f7bdc296b839910198440b58fb90c8);
+}
